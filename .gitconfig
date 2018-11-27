@@ -138,7 +138,6 @@
 	gpgsign = true
 
 [diff]
-
 	# Detect copies as well as renames
 	renames = copies
 
@@ -185,3 +184,8 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+
+[user]
+	name = gillistephan
+	email = gilli.stephan@gmail.com
+	signingkey = C1EF7BF0617BA5A4
