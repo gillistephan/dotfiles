@@ -77,6 +77,9 @@ brew install ucspi-tcp # `tcpserver` etc.
 brew install xpdf
 brew install xz
 
+# Install binaries
+brew install golang
+
 # Install other useful binaries.
 brew install ack
 #brew install exiv2
