@@ -7,8 +7,8 @@ export GOROOT="/usr/local/opt/go/libexec"
 export GOBIN="$GOPATH/bin"
 
 # Add GOPATH & GOROO to ~/bin
-export PATH=$PATH:$GOPATH/bin
-export PATH=$PATH:$GOROOT/bin
+export PATH="$PATH:$GOPATH/bin"
+export PATH="$PATH:$GOROOT/bin"
 
 # Load the shell dotfiles, and then some:
 # * ~/.path can be used to extend `$PATH`.
