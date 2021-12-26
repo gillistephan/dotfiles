@@ -2,8 +2,7 @@
 export PATH="$HOME/bin:$PATH";
 
 # Set GOPATH & GOROOT
-export GOPATH="$HOME/projects/go"
-export GOROOT="/usr/local/opt/go/libexec"
+export GOPATH="$HOME/go"
 export GOBIN="$GOPATH/bin"
 
 # Add GOPATH & GOROO to ~/bin
