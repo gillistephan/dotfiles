@@ -7,12 +7,14 @@ brew update
 brew upgrade
 
 # Install graphical apps
-brew cask install iterm2
-brew cask install google-chrome
-brew cask install visual-studio-code
-brew cask install slack 
-brew cask install 1password
-brew cask install spotify
+brew install --cask iterm2
+brew install --cask google-chrome
+brew install --cask visual-studio-code
+brew install --cask slack 
+brew install --cask 1password 
+brew install --cask spotify
+brew install --cask microsoft-teams
+brew install --cask postman
 
 # Clean up
 brew cleanup
