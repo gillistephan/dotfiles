@@ -32,5 +32,8 @@ brew install tree
 # Install nvm
 brew install nvm
 
+# Install docker
+brew install docker
+
 # Remove outdated versions from the cellar.
 brew cleanup
