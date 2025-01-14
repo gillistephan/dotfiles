@@ -15,6 +15,7 @@ brew install --cask 1password
 brew install --cask spotify
 brew install --cask microsoft-teams
 brew install --cask postman
+brew install --cask notion
 
 # Clean up
 brew cleanup
